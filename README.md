@@ -1,7 +1,5 @@
 # 🎬 Netflix Data Analytics
 
-**End-to-End Data Analytics Project using Python**
-
 # 📌 Project Overview
 
 - This project focuses on analyzing Netflix movies and TV shows to understand content distribution, ratings, country-wise contributions, and release-year trends.
