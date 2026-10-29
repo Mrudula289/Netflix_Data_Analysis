@@ -125,6 +125,28 @@ This helped in understanding the composition and diversity of the Netflix conten
 - Used different chart types to present the findings.
 - Designed the analysis to help readers understand the results without needing to inspect the raw dataset.
 
+## 1. Distribution of Netflix Content Types
+
+## Analysis:
+
+Movies account for the majority of titles in the Netflix dataset.
+
+TV Shows represent a smaller share of the available titles.
+
+The comparison highlights the distribution of different content formats.
+
+<img src="screenshot1.png"
+     alt="Market Overview"
+     width="100%"
+     height="480">
+
+
+## Conclusion:
+
+Netflix's content library in the analyzed dataset is dominated by Movies, while TV Shows account for a smaller proportion of the total titles.
+
+
+
 ## 📊 Key Insights
 
 1. Movies account for a larger share of titles than TV Shows in the dataset.
