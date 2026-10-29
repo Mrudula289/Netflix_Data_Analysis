@@ -145,6 +145,82 @@ The comparison highlights the distribution of different content formats.
 
 Netflix's content library in the analyzed dataset is dominated by Movies, while TV Shows account for a smaller proportion of the total titles.
 
+## 2. Most Common Ratings on Netflix
+
+## Analysis:
+
+The pie chart shows the percentage distribution of content ratings.
+
+Larger slices represent ratings assigned to a greater number of titles.
+
+The chart helps identify the most common audience classifications in the dataset.
+
+<img src="screenshot2.png"
+     alt="Market Overview"
+     width="70%"
+     height="480">
+
+
+## Conclusion:
+
+The rating distribution helps identify the most frequently assigned content ratings on Netflix and understand the audience classifications represented in its library.
+
+Q3. Relationship Between Release Year and Netflix Content
+
+Analysis:
+
+Netflix titles in the dataset span multiple release years.
+
+The scatter plot compares Movies and TV Shows across different release years.
+
+The concentration of points indicates the periods in which more titles were released.
+
+Conclusion:
+
+Netflix's library includes Movies and TV Shows released across several decades. The scatter plot helps compare their release-year patterns and identify periods with a higher concentration of titles.
+
+Q4. Content Type vs. Release Year
+
+Analysis:
+
+The boxplot compares the release-year distributions of Movies and TV Shows.
+
+Median lines indicate the typical release year for each content type.
+
+The boxes represent the middle 50% of observations, while points beyond the whiskers may indicate outliers.
+
+Conclusion:
+
+The boxplot helps compare the typical release years and spread of Movies and TV Shows, highlighting differences in their release-year distributions.
+
+Q5. Top 10 Countries by Netflix Content
+
+Analysis:
+
+The horizontal bar chart displays the ten countries with the highest title counts.
+
+Longer bars indicate greater representation in the dataset.
+
+Titles associated with multiple countries may be counted for each listed country.
+
+Conclusion:
+
+The analysis identifies the countries contributing the most titles to the Netflix dataset and highlights the geographical distribution of its content.
+
+Q6. Distribution of Netflix Titles by Release Year
+
+Analysis:
+
+The histogram shows how titles are distributed across release-year ranges.
+
+Taller bars represent periods with more titles in the dataset.
+
+The distribution helps identify periods with a higher concentration of releases.
+
+Conclusion:
+
+The histogram reveals the release-year patterns of titles available in the analyzed Netflix dataset and helps identify periods with relatively high content representation. However, it does not directly measure Netflix's year-by-year acquisition or platform growth.
+
 
 
 ## 📊 Key Insights
